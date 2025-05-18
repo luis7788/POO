@@ -53,7 +53,7 @@ Para utilizar a aplicação previamente povoada, escolha no menu principal a op�
 
 # SpotifyUM (English)
 
-Group project developed for the OOP (Object-Oriented Programming) course during the 2024/2025 academic year.
+Group project developed for the POO (Object-Oriented Programming) course during the 2024/2025 academic year.
 
 The project is an application that manages songs, albums, and playlists that users can listen to.
 
