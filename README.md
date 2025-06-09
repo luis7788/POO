@@ -50,6 +50,7 @@ $ ./gradlew clean
 
 Para utilizar a aplicação previamente povoada, escolha no menu principal a opção 4 e utilize os ficheiros disponibilizados .
 
+---
 
 # SpotifyUM (English)
 
